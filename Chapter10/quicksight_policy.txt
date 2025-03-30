@@ -1,0 +1,28 @@
+{
+	"Version": "2012-10-17",
+	"Statement": [
+		{
+			"Effect": "Allow",
+			"Action": [
+				"ds:AuthorizeApplication",
+				"ds:UnauthorizeApplication",
+				"ds:CheckAlias",
+				"ds:CreateAlias",
+				"ds:DescribeDirectories",
+				"ds:DescribeTrusts",
+				"ds:DeleteDirectory",
+				"ds:CreateIdentityPoolDirectory",
+				"iam:ListAccountAliases",
+				"quicksight:CreateUser",
+				"quicksight:DescribeAccountSubscription",
+				"quicksight:Subscribe"
+			],
+			"Resource": "*"
+		},
+		{
+			"Effect": "Deny",
+			"Action": "quicksight:Unsubscribe",
+			"Resource": "*"
+		}
+	]
+}
