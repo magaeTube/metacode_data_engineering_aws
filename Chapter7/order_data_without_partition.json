@@ -1,0 +1,8 @@
+{"member_id":"M008", "product_id":"P003", "order_quantity":1, "order_price":50000, "order_date": "20250202"}
+{"member_id":"M005", "product_id":"P005", "order_quantity":2, "order_price":45000, "order_date": "20250202"}
+{"member_id":"M003", "product_id":"P003", "order_quantity":3, "order_price":52000, "order_date": "20250202"}
+{"member_id":"M001", "product_id":"P001", "order_quantity":1, "order_price":43000, "order_date": "20250202"}
+{"member_id":"M001", "product_id":"P001", "order_quantity":2, "order_price":45000, "order_date": "20250203"}
+{"member_id":"M029", "product_id":"P004", "order_quantity":1, "order_price":33000, "order_date": "20250203"}
+{"member_id":"M026", "product_id":"P001", "order_quantity":4, "order_price":38000, "order_date": "20250203"}
+{"member_id":"M024", "product_id":"P004", "order_quantity":1, "order_price":34000, "order_date": "20250203"}
